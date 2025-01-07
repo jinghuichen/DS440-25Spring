@@ -51,12 +51,12 @@ Students are not completely on their own. Throughout the semester there will be 
 
 - Weekly Discussion: Each week teams will meet with instructors and report on progress, pitfalls, and plans. Students are expected to work as a team but also highlight efforts and value added by each team member as an individual. These meetings will be short, 10 min each typically, so be concise and come prepared. Students who do not prepare for these meetings will struggle in the course. 
 - Progress Reports: Approximately every other week students will prepare progress reports. These written reports should be about 2-3 pages in length. Most progress reports will be completed as teams, some will be completed as individuals. Most progress reports will be in response to a prompt which is designed to help students plan.
-- Team Meetings: Teams should meet weekly on their own. Each team member should keep notes of meetings. Meetings should start with a review of work completed and then decide on next steps for the project including explicitly deligating which team member will accomplish which task. Students may be asked to describe these meetings so keep good notes.  
+- Team Meetings: Teams should meet weekly on their own. Each team member should keep notes of meetings. Meetings should start with a review of work completed and then decide on the next steps for the project including explicitly deligating which team member will accomplish which task. Students may be asked to describe these meetings so keep good notes.  
 - Final Reports and Presentations: The final project in this class is a report (in the form of a journal/conference article) describing the project. Students will also be asked to present their report orally to the class. Both the presentation and the report are to be completed as a team.  
 
 **Teams**: Students may choose their own teams (typically 3-4 students per team). Those students without a team will be randomly paired. 
 
-**Topics**: In general, students can pick whatever topics related to data science they are interested in. However, DS440 is a capstone project course, and we have a higher standard than typical machine learning/data science course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price with regression algorithms) is not satisfiable. 
+**Topics**: In general, students can pick whatever topics related to data science they are interested in. We encourage students to pick "fun and doable" project topics. But please note that DS440 is a capstone project course, thus we have a higher standard than a typical ML/DS course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price with regression algorithms) is not satisfiable. 
 
 Your project should aim to either:
 - solve a new/realistic data science problem with no current solutions.
