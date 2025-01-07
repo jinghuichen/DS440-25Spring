@@ -54,7 +54,7 @@ Students are not completely on their own. Throughout the semester there will be 
 - Team Meetings: Teams should meet weekly on their own. Each team member should keep notes of meetings. Meetings should start with a review of work completed and then decide on next steps for the project including explicitly deligating which team member will accomplish which task. Students may be asked to describe these meetings so keep good notes.  
 - Final Reports and Presentations: The final project in this class is a report (in the form of a journal/conference article) describing the project. Students will also be asked to present their report orally to the class. Both the presentation and the report are to be completed as a team.  
 
-**Teams**: Students may choose their own teams (typically 3-4 students per team) with no more than 14 teams total in the course. Those students without a team will be randomly paired. 
+**Teams**: Students may choose their own teams (typically 3-4 students per team). Those students without a team will be randomly paired. 
 
 **Topics**: In general, students can pick whatever topics related to data science they are interested in. However, DS440 is a capstone project course, and we have a higher standard than typical machine learning/data science course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price with regression algorithms) is not satisfiable. 
 
