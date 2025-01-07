@@ -61,13 +61,13 @@ Students are not completely on their own. Throughout the semester there will be 
 Your project should aim to either:
 - solve a new/realistic data science problem with no current solutions.
 - solve an existing data science problem that the current solutions are not good enough.
-- advance our understanding on existing data science concepts, or create new benchmarks for measuring the success of data science tasks.
+- advance our understanding on existing data science concepts, or create new/improved benchmarks for measuring the success of data science tasks.
 
 And you need to convince the client that your topic is meaningful:
 - if you solve a new problem, why is it new? why the current strategies don't work? why your idea might work?
 - if you solve an existing problem with a new solution, how do previous solutions perform? Why do they not work well? why your idea might improve upon them?
 - if you want to advance our understandings on certain concepts, what is the current mainstream opinion towards this concept? Any initial evidence that our current understanding is wrong or not comprehensive?
-- if you want to create a new benchmark for a certain task, why measuring the success of this task is hard in the current stage? Why existing stratetegies cannot well measure the success of this task?
+- if you want to create a new benchmark for a certain task, why measuring the success of this task is hard in the current stage? Why existing strategies cannot well measure the success of this task?
 
 **Hints**: 
 
