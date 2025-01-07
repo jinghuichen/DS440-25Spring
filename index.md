@@ -68,11 +68,7 @@ And you need to convince the client that your topic is meaningful:
 - if you solve a existing problem with a new solution, how do previous solutions perform? Why do they not work well? why your idea might improve upon them?
 - if you want to advance our understandings on certain concepts, what is the current mainstream opinion towards this concept? Any initial evidence that our current understanding is wrong or not comprehensive?
 
-
-
-
-
-Hints: 
+**Hints**: 
 
 - Students should be proactive. Instructors are not responsible for the success or failure of your projects. 
 - Students should come prepared for each and every interaction with instructors. This includes coming prepared with questions. 
