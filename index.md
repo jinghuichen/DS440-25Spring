@@ -23,7 +23,7 @@ This course provides a data sciences problem-solving experience, addressing real
 
 ## Course Objectives
 
-- Learn basic techniques for developing a research problem with a client including: formulating an initial problem informed by available data and client goals, developing an analysis plan, executing the plan, communicating results. 
+- Learn basic techniques for developing a research problem with a client including: formulating an initial problem informed by available data and client goals, developing an analysis plan, executing the plan, and communicating results. 
 - Identify fruitful and fruitless project directions and adjust accordingly. 
 - Learn how to communicate effectively with your client 
 
@@ -37,51 +37,51 @@ This course provides a data sciences problem-solving experience, addressing real
 
 
 ## Course Materials
-- There is no textbook required for this course. However, the following (free online) textbooks may be helpful
-    - Deep Learning (Ian Goodfellow and Yoshua Bengio and Aaron Courville)
-    - The Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition (Trevor Hastie, Robert Tibshirani , Jerome Friedman)
+- No textbook is required for this course. However, the following (free online) textbooks may be helpful
+    - Deep Learning (Ian Goodfellow, Yoshua Bengio, Aaron Courville)
+    - The Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition (Trevor Hastie, Robert Tibshirani, Jerome Friedman)
     - Pattern Recognition and Machine Learning (Christopher Bishop)
 
 
 ## Capstone Project
 
-Students (working in teams) will have 1 semester to pick, pitch, plan, perform, and present a project of their choosing. This course will guide students through this process. Still, students are expected to be self-motivated and take an active role in pushing their project forward. **Students who are expecting that intructors will "tell them what to do next" will fail this course.** It's one thing to request feedback, its another to wait for instruction. The former is welcomed, the later is not tolerated. 
+Students (working in teams) will have 1 semester to pick, pitch, plan, perform, and present a project of their choosing. This course will guide students through this process. Still, students are expected to be self-motivated and take an active role in pushing their projects forward. **Students who are expecting that instructors will "tell them what to do next" will fail this course.** It's one thing to request feedback, it's another to wait for instruction. The former is welcomed, and the latter is not tolerated. 
 
-Students are not completely on their own. Throughout the semester there will be small assignments and regular checkins with instructors to help them manage their time. 
+Students are not completely on their own. Throughout the semester there will be small assignments and regular check-ins with instructors to help them manage their time. 
 
-- Weekly Discussion: Each week teams will meet with instructors and report on progress, pitfalls, and plans. Students are expected to work as a team but also highlight efforts and value added by each team member as an individual. These meetings will be short, 10 min each typically, so be consice and come prepared. Students who do not prepare for these meetings will struggle in the course. 
+- Weekly Discussion: Each week teams will meet with instructors and report on progress, pitfalls, and plans. Students are expected to work as a team but also highlight efforts and value added by each team member as an individual. These meetings will be short, 10 min each typically, so be concise and come prepared. Students who do not prepare for these meetings will struggle in the course. 
 - Progress Reports: Approximately every other week students will prepare progress reports. These written reports should be about 2-3 pages in length. Most progress reports will be completed as teams, some will be completed as individuals. Most progress reports will be in response to a prompt which is designed to help students plan.
 - Team Meetings: Teams should meet weekly on their own. Each team member should keep notes of meetings. Meetings should start with a review of work completed and then decide on next steps for the project including explicitly deligating which team member will accomplish which task. Students may be asked to describe these meetings so keep good notes.  
 - Final Reports and Presentations: The final project in this class is a report (in the form of a journal/conference article) describing the project. Students will also be asked to present their report orally to the class. Both the presentation and the report are to be completed as a team.  
 
 **Teams**: Students may choose their own teams (typically 3-4 students per team) with no more than 14 teams total in the course. Those students without a team will be randomly paired. 
 
-**Topics**: In general, students can pick whatever topics related to data science they are interested in. However, DS440 is a capstone project course, and we have a higher standard than typical machine learning/data science course project. Simplying applying an existing algorithm on some dataset (e.g., predicting the house price with regression algorithms) is not safistiable. 
+**Topics**: In general, students can pick whatever topics related to data science they are interested in. However, DS440 is a capstone project course, and we have a higher standard than typical machine learning/data science course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price with regression algorithms) is not satisfiable. 
 
 Your project should aim to either:
 - solve a new/realistic data science problem with no current solutions.
-- solve a existing data science problem that the current solutions are not good enough.
-- advance our understanding on existing data science concepts.
+- solve an existing data science problem that the current solutions are not good enough.
+- advance our understanding on existing data science concepts, or create new benchmarks for measuring the success of data science tasks.
 
 And you need to convince the client that your topic is meaningful:
-- if you solve a new problem, why it is new? why the current strategies don't work? why your idea might work?
-- if you solve a existing problem with a new solution, how do previous solutions perform? Why do they not work well? why your idea might improve upon them?
+- if you solve a new problem, why is it new? why the current strategies don't work? why your idea might work?
+- if you solve an existing problem with a new solution, how do previous solutions perform? Why do they not work well? why your idea might improve upon them?
 - if you want to advance our understandings on certain concepts, what is the current mainstream opinion towards this concept? Any initial evidence that our current understanding is wrong or not comprehensive?
+- if you want to create a new benchmark for a certain task, why measuring the success of this task is hard in the current stage? Why existing stratetegies cannot well measure the success of this task?
 
 **Hints**: 
 
 - Students should be proactive. Instructors are not responsible for the success or failure of your projects. 
-- Students should come prepared for each and every interaction with instructors. This includes coming prepared with questions. 
-- Team members should endeavor to "make each other look good" in the eyes of the client (i.e., instructor). However, if there is a substantial or intractable personel issue, this should be brought to the attention of the instructors else it may reflect poorly on the team as a whole. 
-- All interactions with instructors are professional interactions. For example, meetings can be rescheduled within reason given advanced notice. However, failure to show up for a meeting or tardiness will almost certainly end with a failing grade in the course unless there are truely extenuating circumstances. In short, attendance is mandatory at all times. 
-- Projects need not be successful. In fact, a succesful project could in theory end with a worse final grade than a project that failed. Students are expected to work effectively, demonstrate creativity, learn, and thuroughly investigate a project. Still, a project that results in failure should be informative, e.g., why did the current approach fail? Simply hypothesizing as to why something failed is likely not sufficient and a detaild analysis of failure is often required. 
-- Students should be prepared for questions about their project during weekly discussions. To succeed in this course, students should anticipate these questions and be prepared with responses. 
-- Teamwork will be evaluated through peer evaluations. 
+- Students should come prepared for each and every interaction with instructors. It is your chance to seek suggestions and feedback. Students should also be prepared for questions about their own projects during weekly discussions. 
+- Failure to show up in classes/discussions/meetings will almost certainly end with a failing grade in the course unless there are truly extenuating circumstances. In short, attendance is mandatory at all times. 
+- Projects do not always need a positive result to be successful. A project that well demonstrates a negative result can still be informative, (e.g., xxx cannot be used to do xxx), if you can clearly illustrate the reason with detailed evidence.
+- Team members should endeavor to "make each other look good" in the eyes of the client (i.e., instructor). However, if there is a substantial or intractable personnel issue, this should be brought to the attention of the instructors at the early stage of the project. Teamwork will be evaluated through peer evaluations. 
+
 
 
 ## Workload Expectation
 
-Consistent with University policies for 3 credit hours, this course requires about 9 hours per week by each person outside of scheduled class times. Please plan accordingly. It is critical that you establish regular times when your team can meet outside of class and lab, since many activities are team-based. Even when things do not work, you can get credit if you can document the effort you put in and it seems reasonable that that time was used effectively. So, please keep documentation of the time you put into your project. This is good practice for the future.
+Consistent with University policies for 3 credit hours, this course requires about 9 hours per week by each person outside of scheduled class times. Please plan accordingly. It is critical that you establish regular times when your team can meet outside of class, since many activities are team-based. Even when things do not work, you can get credit if you can document the effort you put in and it seems reasonable that that time was used effectively. So, please keep documentation of the time you put into your project. This is good practice for the future.
 
 **Note**: This course expects that deliverables are provided on time and completely. "Not having enough time" is not acceptable and can result in failure in the course. If students find they don't have enough time then it is a failure of project planning. 
 
@@ -95,7 +95,7 @@ Consistent with University policies for 3 credit hours, this course requires abo
 
 
 ## Generative AI Policy
-- It is not allowed to use ChatGPT or other GenAI tools for writing any of your assignments. Everything you submitted should be written in your own language. You will **fail the class if your progress reports or final reports are writen by Generative AI tools**.
+- It is not allowed to use ChatGPT or other GenAI tools for writing any of your assignments. Everything you submit should be written in your own language. You will **fail the class if your progress reports or final reports are written by Generative AI tools**.
 
 - However, if your project aims to study GenAI themselves (e.g., studying their certain capabilities) or use generative AI as a tool (e.g., generating data for your project), you are allowed and encouraged to use them in your project.
 
@@ -104,7 +104,7 @@ Consistent with University policies for 3 credit hours, this course requires abo
  
 Grades will be computed based on the following factors:
 
-- Project Execution (attendence/discussion/..)  30%
+- Project Execution (attendance/discussion/..)  30%
 - Interim Progress Reports                      30%
 - Final Project Presentation                    20% 
 - Final Reports                                 10% 
