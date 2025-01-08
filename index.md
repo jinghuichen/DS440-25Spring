@@ -28,13 +28,6 @@ This course provides a data sciences problem-solving experience, addressing real
 - Learn how to communicate effectively with your client 
 
  
-## "Less Official" Course Objectives
-
-- Provide students with an opportunity to investigate a question or develop a tool that they are interested in. 
-- Allow students a venue to make and learn from mistakes while they are still in undergrad.
-- Learn how to say "I don't know effectively" and in so doing, learn how to build trust with a client. 
-- Learn how to incorporate feedback. 
-
 
 ## Course Materials
 - No textbook is required for this course. However, the following (free online) textbooks may be helpful
