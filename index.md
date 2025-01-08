@@ -63,10 +63,8 @@ And you need to convince the client that your topic is meaningful:
 - if you want to create a new benchmark for a certain task, why measuring the success of this task is hard in the current stage? Why existing strategies cannot well measure the success of this task?
 
 **Hints**: 
-
-- Students should be proactive. Instructors are not responsible for the success or failure of your projects. 
+- Attendance is mandatory at all times. Failure to show up in classes/discussions/meetings will almost certainly end with a failing grade in the course unless there are truly extenuating circumstances.  
 - Students should come prepared for each and every interaction with instructors. It is your chance to seek suggestions and feedback. Students should also be prepared for questions about their own projects during weekly discussions. 
-- Failure to show up in classes/discussions/meetings will almost certainly end with a failing grade in the course unless there are truly extenuating circumstances. In short, attendance is mandatory at all times. 
 - Projects do not always need a positive result to be successful. A project that well demonstrates a negative result can still be informative, (e.g., xxx cannot be used to do xxx), if you can clearly illustrate the reason with detailed evidence.
 - Team members should endeavor to "make each other look good" in the eyes of the client (i.e., instructor). However, if there is a substantial or intractable personnel issue, this should be brought to the attention of the instructors at the early stage of the project. Teamwork will be evaluated through peer evaluations. 
 
