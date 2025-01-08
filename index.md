@@ -49,7 +49,7 @@ Students are not completely on their own. Throughout the semester there will be 
 
 **Teams**: Students may choose their own teams (typically 3-4 students per team). Those students without a team will be randomly paired. 
 
-**Topics**: In general, students can pick whatever topics related to data science they are interested in. We encourage students to pick "fun and doable" project topics. But please note that DS440 is a capstone project course, thus we have a higher standard than a typical ML/DS course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price with regression algorithms) is not satisfiable. 
+**Topics**: In general, students can pick whatever topics related to data science they are interested in. We encourage students to pick "fun and doable" project topics. But please note that DS440 is a capstone project course, thus we have a higher standard than a typical ML/DS course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price using linear regression) is not satisfiable. 
 
 Your project should aim to either:
 - solve a new/realistic data science problem with no current solutions.
