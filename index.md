@@ -142,16 +142,16 @@ Progress Report are typically Due by 11:59pm on Friday of that week indicated. E
 | 16 | 03/06/25 | Week 8 Discussion 2          |                          |
 | -- | 03/11/25 | Spring Break                 |                          |
 | -- | 03/13/25 | Spring Break                 |                          |
-| 17 | 03/18/25 | Week 9 Discussion 1          |                          |
-| 18 | 03/20/25 | Week 9 Discussion 2          | Progress Report 4 Due    |
-| 19 | 03/25/25 | Week 10 Discussion 1         |                          |
-| 20 | 03/27/25 | Week 10 Discussion 2         | Peer Review 2 Due        |
-| 21 | 04/01/25 | Week 11 Discussion 1         |                          |
-| 22 | 04/03/25 | Week 11 Discussion 2         | Progress Report 5 Due    |
-| 23 | 04/08/25 | Week 12 Discussion 1         |                          |
-| 24 | 04/10/25 | Week 12 Discussion 2         |                          |
-| 25 | 04/15/25 | Week 13 Discussion 1         |                          |
-| 26 | 04/17/25 | Week 13 Discussion 2         | Progress Report 6 Due    |
+| 17 | 03/18/25 | Week 10 Discussion 1         |                          |
+| 18 | 03/20/25 | Week 10 Discussion 2         | Progress Report 4 Due    |
+| 19 | 03/25/25 | Week 11 Discussion 1         |                          |
+| 20 | 03/27/25 | Week 11 Discussion 2         | Peer Review 2 Due        |
+| 21 | 04/01/25 | Week 12 Discussion 1         |                          |
+| 22 | 04/03/25 | Week 12 Discussion 2         | Progress Report 5 Due    |
+| 23 | 04/08/25 | Week 13 Discussion 1         |                          |
+| 24 | 04/10/25 | Week 13 Discussion 2         |                          |
+| 25 | 04/15/25 | Week 14 Discussion 1         |                          |
+| 26 | 04/17/25 | Week 14 Discussion 2         | Progress Report 6 Due    |
 | 27 | 04/22/25 | Presentation/Slide Review 1  |                          |
 | 28 | 04/24/25 | Presentation/Slide Review 2  |                          |
 | 29 | 04/29/25 | Project Presentation 1       |                          |
