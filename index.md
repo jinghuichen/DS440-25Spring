@@ -18,7 +18,7 @@ This course provides a data sciences problem-solving experience, addressing real
 - Office hours: by appointment (email instructor to setup time)
 
 - TA: Tianrong Zhang  (Email: tbz5156@psu.edu)
-    - Office hours: TBD
+    - Office hours: Mon 1:30-2:30pm @Westgate E301
 
 
 ## Course Objectives
